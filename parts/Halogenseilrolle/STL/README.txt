@@ -1,0 +1,1 @@
+Alle Dateien mit "- ascii" im Dateinamen sind in den Achsen so gedreht dass sie am 3D Drucker einfach gedruckt werden können
